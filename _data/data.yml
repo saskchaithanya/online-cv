@@ -3,219 +3,193 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Krishna Chaithanya S
+    tagline: Staff Engineering Professional | Experience:12+ years | Application Development | System Design | Scaled Agile
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
+    email: saskrishnachaithanya@gmail.com
+    phone: +91-9030950362
+    Location: Hyderabad, India 
+    linkedin: https://linkedin.com/in/saskrishnachaithanya
+    github: saskchaithanya
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Telugu
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
+        - idiom: Hindi
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Exploring Places
           link:
 
-        - item: Snowboarding
+        - item: Watching Movies
           link:
 
-        - item: Cooking
+        - item: Learning new Tech
           link:
-
+about-me:
+    title: About Me
+    summary: |
+      With over 12 years of experience in software development, specializing in C++ application development, System Design and Architecture. 
+      I am passionate about developing scalable applications that meet the unique requirements of various industries. 
+      Throughout my career, I have successfully delivered various robust and efficient applications for Storage Products like SAN Storage Systems, SSD Drives and scalable distributed applications. 
+      I am well-versed in object-oriented programming principles and have a deep understanding of data structures, Design Patterns and algorithms. 
+      My strong problem-solving skills enable me to identify and address complex technical challenges efficiently. 
+      In addition to my expertise in C++, I have a good understanding of other programming languages such as Python and Java, which allows me to adapt to diverse tech stacks. 
+      I am also well-versed in web technologies, including HTML, CSS, and JavaScript, and have experience with frameworks like Angular JS.
+      
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - A successful product delivery leader passionate about creating robust and efficient solutions and systems that drive innovation.
+      - Developed and maintained C++, Java and GoLang based applications for SAN Storage systems, SSD Drives and for distributed Systems adhering to software development best practices and coding standards.
+      - Strong problem-solving and analytical abilities with a focus on delivering scalable and efficient software solutions.
+      - Collaborated with cross-functional teams to gather requirements, perform system design, and deliver high-quality software solutions.
+      - Implemented complex data structures and algorithms to optimize application performance and scalability.
+      - Utilized design patterns and architectural principles to create modular and maintainable codebases.
+      - Resolved critical software defects and provided timely support to end-users to ensure system stability and user satisfaction. 
+      - Adept in coordinating with global teams, and building healthy relationship with internal/ external stakeholders.
+      - Mentored junior developers, conducted code reviews, actively writing technical specifications and design documents.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Masters in Embedded Systems
+        university: VNR Vignana Jyothi Institute of Technology, JNTU, Hyderabad, Telangana, India.
+        time: 2008 - 2010
+      - degree: Bachelors in Electronics and Communications
+        university: VRS & YRN College of Engineering, JNTU, Chirala, Andhra Pradesh, India
+        time: 2004 - 2018
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Staff Engineer
+        time: 2021 Nov - Present
+        company: Micron Technologies India Pvt. Ltd., Hyderabad, India
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+        Responsible for design and development of Management Software Stack/Workbench for creating various SSD Apps.
+      - role: Staff Engineer
+        time: 2017 Nov- 2021 Nov
+        company: Seagate Technologies
+        details: |
+          Responsible for design and development of various Management Apps for Seagate’s Compute & Storage Convergence Platforms.
+      - role: Senior Engineer
+        time: 2017 Feb - 2017 Nov
+        company: Msys Technologies, Banglore, India
+        details: |
+          Worked as a contractor for Seagate Technologies HDD India Pvt. Ltd. Responsible for design and development of various Management Apps for Seagate’s Compute & Storage Convergence Platforms.
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: 2010 Aug - 2017 Feb
+        company: Vedams Software Solutions India. Pvt. Ltd, Banglore, India
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked as a offshore developer for Seagate Technologies HDD India Pvt. Ltd.(Former Dothill Systems Corp.). Responsible for design and development of various Management Apps for Dothill’s Compute & Storage Convergence Platforms.
+
 projects:
-    title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Worked on Application development in SSD, SAN and Distributed Environments.
+    title: Projects
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Storage Executive CLI 
+        tagline: "This is a Command Line Interface (CLI) tool/desktop App that translates user commands into NVMe commands as per Specification and execute on the drive. It is designed to work on multiple Operating Systems, multiple Platforms and drivers."
+        intro: >
+        - Duration: 11/2021 – Present, Micron Technology India Pvt. Ltd
+        - Role: Independent Contributor
+        - Technologies: C/C++, DSA, Windows Programming, Visual Studio, Python, Jenkins, Bit Bucket, Git, Confluence. 
+      
+      - title: Exos X CSI Driver Plugin 
+        tagline: "The aim of the Container Storage Interface driver plugin is to provide a common standard to connect container orchestration platforms (COs) like Kubernetes to the Storage System."
+        intro: >
+        - Duration: 08/2021 – 11/2021, Seagate HDD India Pvt. Ltd
+        - Role: Senior Developer
+        - Technologies: Golang, Docker, Kubernetes, Helm charts, Git, Confluence, Jira, Ubuntu Linux etc.
+      
+      - title: VASA Provider and vVols
+        tagline: "The VASA Provider is implemented as a web server that serves the SOAP requests from vSphere."
+        intro: >
+        - Duration: 11/2019 - 07/2021, Seagate HDD India Pvt. Ltd
+        - Role: Project Lead
+        - Technologies: C++, STL, DSA, Design patterns, vSphere Client, vCenter server, SOAP, XML, WSO-WSF-CPP library.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Dell Support Assist 
+        tagline: "The Support Assist is a REST client running on the customer’s storage system. It monitors for firmware upgrades availability, Backups configuration and performance statistics of Storage system to Dell Support Assist Server."
+        intro: >
+        - Duration: 02/2017 - 11/2019, MSYS Tech India Pvt. Ltd, Seagate HDD India Pvt. Ltd
+        - Role: Project Lead
+        - Technologies: C++, STL, DSA, Design patterns, REST, JSON Parser (nlohmann/json), Python
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: SAN Management Controller Architecture 
+        tagline: "SAN Management Controller is a separate processor domain in the Storage System that offloads management operations from Storage Controller which mainly deals with the storage operations. An Embedded Linux based system having AppServer that serves various clients like CLI, FTP, GUI, API, SNMP, SMI-S, Email etc.,"
+        intro: >
+        - Duration: 08/2010 - 04/2016, Vedams Software Solutions India Pvt. Ltd
+        - Role: Senior Developer
+        - Technologies: C++, STL, DSA, Design Patterns, Linux System Programming, GDB, GNU Make, Python.
+        
+        - title: IT Service Management System  
+        tagline: "This is a microservices based distributed system designed to automate IT services. The system is built up of three collaborating components/services namely Script Management System (SMS), Password Management System (PMS) and Automation Engine (AE) with a separate microservice for each component that runs on distributed environments. It uses the Message Queues for load balancing while processing the service requests."
+        intro: >
+        - Duration: (04/2016 -02/2017), Vedams Software Solutions India Pvt. Ltd
+        - Role: Senior Developer
+        - Technologies: Java- Spring Boot, Maven, Thymeleaf, MySQL, Angular JS, HTML, CSS, Rabbit MQ.
 
 oss:
-    title: OSS Contributions
+    title: Honor Awards
     intro: >
       You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Outstanding Performer of the Quarter
+        tagline: "In 2013 at Vedams Software Solutions India Pvt. Ltd"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Certificate of Achievement and Excellence for outstanding performance
+        tagline: "In 2017 at MSYS Tech India Pvt. Ltd"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Key Contributor Performance Reward
+        tagline: "In June-2018, Dec-2018, and Feb-2019 at Seagate HDD India Pvt. Ltd"
+      
+      - title: Restricted Stock Units (RSUs)
+        tagline: "In 2018-2021 at Seagate HDD India Pvt. Ltd"
+        
+       - title: Cultural champion
+        tagline: "In 2022,2023 at Micron Technology India Pvt. Ltd."
+        
+       - title: Restricted Stock Units (RSUs)
+        tagline: "In 2022 at Micron Technology India Pvt. Ltd."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C,C++
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Data Structures, Algorithms and STL
         level: 98%
 
-      - name: Angular
+      - name: Design Patterns
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Protocols REST,SOAP,NVME
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Linux System programming, Device Drives
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java, GoLang, Python, Angular JS,HTML, CSS
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
