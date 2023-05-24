@@ -98,18 +98,20 @@ experiences:
           Worked as a offshore developer for Seagate Technologies HDD India Pvt. Ltd.(Former Dothill Systems Corp.). Responsible for design and development of various Management Apps for Dothill’s Compute & Storage Convergence Platforms.
 
 projects:
+    title: Projects
     intro: >
      Worked on Application development in SSD, SAN and Distributed Environments.
-    title: Projects
-    info:
+    assignments:
      - title: Storage Executive CLI 
+       link: "#hook"
        tagline: "This is a Command Line Interface (CLI) tool/desktop App that translates user commands into NVMe commands as per Specification and execute on the drive. It is designed to work on multiple Operating Systems, multiple Platforms and drivers."
        time: 11/2021 – Present
        details: |
             - Indepedent Contributor
             - Technologies include C/C++, DSA, Windows Programming, Visual Studio, Python, Jenkins, Bit Bucket, Git, Confluence.
       
-     - title: Exos X CSI Driver Plugin 
+     - title: Exos X CSI Driver Plugin
+       link: "#"
        tagline: "The aim of the Container Storage Interface driver plugin is to provide a common standard to connect container orchestration platforms (COs) like Kubernetes to the Storage System."
        time: 08/2021 – 11/2021, Seagate HDD India Pvt. Ltd
        details: |
@@ -117,6 +119,7 @@ projects:
              - Technologies include Golang, Docker, Kubernetes, Helm charts, Git, Confluence, Jira, Ubuntu Linux etc.
       
      - title: VASA Provider and vVols
+       link: "#"
        tagline: "The VASA Provider is implemented as a web server that serves the SOAP requests from vSphere."
        time: 11/2019 - 07/2021, Seagate HDD India Pvt. Ltd
        details: |
@@ -124,13 +127,15 @@ projects:
             - Technologies include C++, STL, DSA, Design patterns, vSphere Client, vCenter server, SOAP, XML, WSO-WSF-CPP library.
 
      - title: Dell Support Assist 
+       link: "#"
        tagline: "The Support Assist is a REST client running on the customer’s storage system. It monitors for firmware upgrades availability, Backups configuration and performance statistics of Storage system to Dell Support Assist Server."
        time: 02/2017 - 11/2019, MSYS Tech India Pvt. Ltd, Seagate HDD India Pvt. Ltd
        details: |
             - Project Lead
             - Technologies include C++, STL, DSA, Design patterns, REST, JSON Parser (nlohmann/json), Python
 
-      - title: SAN Management Controller Architecture 
+      - title: SAN Management Controller Architecture
+        link: "#"
         tagline: "SAN Management Controller is a separate processor domain in the Storage System that offloads management operations from Storage Controller which mainly deals with the storage operations. An Embedded Linux based system having AppServer that serves various clients like CLI, FTP, GUI, API, SNMP, SMI-S, Email etc.,"
         time: 08/2010 - 04/2016, Vedams Software Solutions India Pvt. Ltd
         details: |
@@ -138,6 +143,7 @@ projects:
              - Technologies include C++, STL, DSA, Design Patterns, Linux System Programming, GDB, GNU Make, Python.
         
      - title: IT Service Management System  
+       link: "#"
        tagline: "This is a microservices based distributed system designed to automate IT services. The system is built up of three collaborating components/services namely Script Management System (SMS), Password Management System (PMS) and Automation Engine (AE) with a separate microservice for each component that runs on distributed environments. It uses the Message Queues for load balancing while processing the service requests."
        time: (04/2016 -02/2017), Vedams Software Solutions India Pvt. Ltd
        details: |
