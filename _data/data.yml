@@ -105,45 +105,52 @@ projects:
         link: "#hook"
         tagline: "This is a Command Line Interface (CLI) tool/desktop App that translates user commands into NVMe commands as per Specification and execute on the drive. It is designed to work on multiple Operating Systems, multiple Platforms and drivers."
 
-      - title: DevStudio
+      - title: Exos X CSI Driver Plugin
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "The aim of the Container Storage Interface driver plugin is to provide a common standard to connect container orchestration platforms (COs) like Kubernetes to the Storage System."
 
-      - title: Tempo
+      - title: VASA Provider and vVols
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "The VASA Provider is implemented as a web server that serves the SOAP requests from vSphere."
 
-      - title: Atom
+      - title: Dell Support Assist
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "The Support Assist is a REST client running on the customer’s storage system. It monitors for firmware upgrades availability, Backups configuration and performance statistics of Storage system to Dell Support Assist Server."
 
-      - title: Delta
+      - title: SAN Management Controller Architecture
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "SAN Management Controller is a separate processor domain in the Storage System that offloads management operations from Storage Controller which mainly deals with the storage operations. An Embedded Linux based system having AppServer that serves various clients like CLI, FTP, GUI, API, SNMP, SMI-S, Email etc.,"
+        
+      - title: IT Service Management System
+        link: "#"
+        tagline: "This is a microservices based distributed system designed to automate IT services. The system is built up of three collaborating components/services namely Script Management System (SMS), Password Management System (PMS) and Automation Engine (AE) with a separate microservice for each component that runs on distributed environments. It uses the Message Queues for load balancing while processing the service requests."
 
 oss:
-    title: Honor Awards
+    title:  Honor Awards
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: Outstanding Performer of the Quarter
+        link: "#"
         tagline: "In 2013 at Vedams Software Solutions India Pvt. Ltd"
 
       - title: Certificate of Achievement and Excellence for outstanding performance
+        link: "#"
         tagline: "In 2017 at MSYS Tech India Pvt. Ltd"
 
       - title: Key Contributor Performance Reward
+        link: "#"
         tagline: "In June-2018, Dec-2018, and Feb-2019 at Seagate HDD India Pvt. Ltd"
-      
+        
       - title: Restricted Stock Units (RSUs)
+        link: "#"
         tagline: "In 2018-2021 at Seagate HDD India Pvt. Ltd"
-        
-       - title: Cultural champion
+
+      - title: Cultural champion
+        link: "#"
         tagline: "In 2022,2023 at Micron Technology India Pvt. Ltd."
-        
-       - title: Restricted Stock Units (RSUs)
+
+      - title: Restricted Stock Units (RSUs)
+        link: "#"
         tagline: "In 2022 at Micron Technology India Pvt. Ltd."
 
 skills:
