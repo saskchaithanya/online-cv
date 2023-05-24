@@ -107,12 +107,12 @@ projects:
        time: 11/2021 – Present
        details: |
             - Indepedent Contributor
-            - Technologies include C/C++, DSA, Windows Programming, Visual Studio, Python, Jenkins, Bit Bucket, Git, Confluence. Bullet point
+            - Technologies include C/C++, DSA, Windows Programming, Visual Studio, Python, Jenkins, Bit Bucket, Git, Confluence.
       
      - title: Exos X CSI Driver Plugin 
        tagline: "The aim of the Container Storage Interface driver plugin is to provide a common standard to connect container orchestration platforms (COs) like Kubernetes to the Storage System."
-        time: 08/2021 – 11/2021, Seagate HDD India Pvt. Ltd
-        details: |
+       time: 08/2021 – 11/2021, Seagate HDD India Pvt. Ltd
+       details: |
              - Senior Developer
              - Technologies include Golang, Docker, Kubernetes, Helm charts, Git, Confluence, Jira, Ubuntu Linux etc.
       
