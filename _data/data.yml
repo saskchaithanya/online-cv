@@ -101,7 +101,7 @@ projects:
     intro: >
      Worked on Application development in SSD, SAN and Distributed Environments.
     title: Projects
-    assignments:
+    info:
      - title: Storage Executive CLI 
        tagline: "This is a Command Line Interface (CLI) tool/desktop App that translates user commands into NVMe commands as per Specification and execute on the drive. It is designed to work on multiple Operating Systems, multiple Platforms and drivers."
        time: 11/2021 – Present
