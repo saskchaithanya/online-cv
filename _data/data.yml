@@ -38,18 +38,8 @@ sidebar:
         - item: Watching Movies
           link:
 
-        - item: Learning new Tech
+        - item: Learning new Technologies
           link:
-about-me:
-    title: About Me
-    summary: |
-      With over 12 years of experience in software development, specializing in C++ application development, System Design and Architecture. 
-      I am passionate about developing scalable applications that meet the unique requirements of various industries. 
-      Throughout my career, I have successfully delivered various robust and efficient applications for Storage Products like SAN Storage Systems, SSD Drives and scalable distributed applications. 
-      I am well-versed in object-oriented programming principles and have a deep understanding of data structures, Design Patterns and algorithms. 
-      My strong problem-solving skills enable me to identify and address complex technical challenges efficiently. 
-      In addition to my expertise in C++, I have a good understanding of other programming languages such as Python and Java, which allows me to adapt to diverse tech stacks. 
-      I am also well-versed in web technologies, including HTML, CSS, and JavaScript, and have experience with frameworks like Angular JS.
       
 career-profile:
     title: Career Profile
@@ -72,7 +62,7 @@ education:
         time: 2008 - 2010
       - degree: Bachelors in Electronics and Communications
         university: VRS & YRN College of Engineering, JNTU, Chirala, Andhra Pradesh, India
-        time: 2004 - 2018
+        time: 2004 - 2008
 experiences:
     title: Experiences
     info:
@@ -101,29 +91,29 @@ projects:
     intro: >
       Worked on Application development in SSD, SAN and Distributed Environments.
     assignments:
-      - title: Storage Executive CLI
+      - title: Storage Executive CLI (Indepedent Contributor)
         link: "#hook"
-        tagline: "This is a Command Line Interface (CLI) tool/desktop App that translates user commands into NVMe commands as per Specification and execute on the drive. It is designed to work on multiple Operating Systems, multiple Platforms and drivers."
+        tagline: "This is a Command Line Interface (CLI) tool/desktop App that translates user commands into NVMe commands as per Specification and execute on the drive. It is designed to work on multiple Operating Systems, multiple Platforms and drivers.Technologies include C/C++, DSA, Windows Programming, Visual Studio, Python, Jenkins, Bit Bucket, Git, Confluence."
 
-      - title: Exos X CSI Driver Plugin
+      - title: Exos X CSI Driver Plugin (Indepedent Contributor)
         link: "#"
-        tagline: "The aim of the Container Storage Interface driver plugin is to provide a common standard to connect container orchestration platforms (COs) like Kubernetes to the Storage System."
+        tagline: "The aim of the Container Storage Interface driver plugin is to provide a common standard to connect container orchestration platforms (COs) like Kubernetes to the Storage System.Technologies include Golang, Docker, Kubernetes, Helm charts, Git, Confluence, Jira, Ubuntu Linux etc."
 
-      - title: VASA Provider and vVols
+      - title: VASA Provider and vVols (Project Lead)
         link: "#"
-        tagline: "The VASA Provider is implemented as a web server that serves the SOAP requests from vSphere."
+        tagline: "The VASA Provider is implemented as a web server that serves the SOAP requests from vSphere.Technologies include C++, STL, DSA, Design patterns, vSphere Client, vCenter server, SOAP, XML, WSO-WSF-CPP library."
 
-      - title: Dell Support Assist
+      - title: Dell Support Assist (Project Lead)
         link: "#"
-        tagline: "The Support Assist is a REST client running on the customer’s storage system. It monitors for firmware upgrades availability, Backups configuration and performance statistics of Storage system to Dell Support Assist Server."
+        tagline: "The Support Assist is a REST client running on the customer’s storage system. It monitors for firmware upgrades availability, Backups configuration and performance statistics of Storage system to Dell Support Assist Server.Technologies include C++, STL, DSA, Design patterns, REST, JSON Parser (nlohmann/json), Python"
 
-      - title: SAN Management Controller Architecture
+      - title: SAN Management Controller Architecture (Senior Developer)
         link: "#"
-        tagline: "SAN Management Controller is a separate processor domain in the Storage System that offloads management operations from Storage Controller which mainly deals with the storage operations. An Embedded Linux based system having AppServer that serves various clients like CLI, FTP, GUI, API, SNMP, SMI-S, Email etc.,"
+        tagline: "SAN Management Controller is a separate processor domain in the Storage System that offloads management operations from Storage Controller which mainly deals with the storage operations. An Embedded Linux based system having AppServer that serves various clients like CLI, FTP, GUI, API, SNMP, SMI-S, Email etc. Technologies include C++, STL, DSA, Design Patterns, Linux System Programming, GDB, GNU Make, Python."
         
-      - title: IT Service Management System
+      - title: IT Service Management System (Senior Developer)
         link: "#"
-        tagline: "This is a microservices based distributed system designed to automate IT services. The system is built up of three collaborating components/services namely Script Management System (SMS), Password Management System (PMS) and Automation Engine (AE) with a separate microservice for each component that runs on distributed environments. It uses the Message Queues for load balancing while processing the service requests."
+        tagline: "This is a microservices based distributed system designed to automate IT services. The system is built up of three collaborating components/services namely Script Management System (SMS), Password Management System (PMS) and Automation Engine (AE) with a separate microservice for each component that runs on distributed environments. It uses the Message Queues for load balancing while processing the service requests. Technologies include Java- Spring Boot, Maven, Thymeleaf, MySQL, Angular JS, HTML, CSS, Rabbit MQ."
 
 oss:
     title:  Honor Awards
